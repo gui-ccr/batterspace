@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💬 Ola!! meu nome é Guilherme, tenho 17 anos.<br>📚 Estou estudando para me tornar um desenvolvedor Full Stack.<br> Espero que goste do meu perfil! <br>🌎 Teófilo Otoni, MG.
+💬 Ola!! meu nome é Guilherme, tenho 17 anos.<br>📚 Estou estudando para me tornar um desenvolvedor Full Stack.<br> 😁 Espero que goste do meu perfil! <br>🌎 Teófilo Otoni, MG, Brasil.
 
 
 ## 🌐 Redes Socias:
